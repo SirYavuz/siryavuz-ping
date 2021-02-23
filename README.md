@@ -1,5 +1,5 @@
 # siryavuz-ping
-FiveM /Ping Location Script
+FiveM /ping Location Script
 
 SirYavuz#0001
 
